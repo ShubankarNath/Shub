@@ -95,7 +95,7 @@ font-weight: 600;
 /* home section styling */
 .home{
     display: flex;
-    background: url('shub.PNG') no-repeat center;
+    background: url("images/shub.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
